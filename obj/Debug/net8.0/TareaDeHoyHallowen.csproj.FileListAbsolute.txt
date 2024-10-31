@@ -1,0 +1,14 @@
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\bin\Debug\net8.0\TareaDeHoyHallowen.exe
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\bin\Debug\net8.0\TareaDeHoyHallowen.deps.json
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\bin\Debug\net8.0\TareaDeHoyHallowen.runtimeconfig.json
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\bin\Debug\net8.0\TareaDeHoyHallowen.dll
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\bin\Debug\net8.0\TareaDeHoyHallowen.pdb
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\TareaDeHoyHallowen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\TareaDeHoyHallowen.AssemblyInfoInputs.cache
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\TareaDeHoyHallowen.AssemblyInfo.cs
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\TareaDeHoyHallowen.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\TareaDeHoyHallowen.dll
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\refint\TareaDeHoyHallowen.dll
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\TareaDeHoyHallowen.pdb
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\TareaDeHoyHallowen.genruntimeconfig.cache
+C:\Users\UPN\source\repos\TareaDeHoyHallowen\obj\Debug\net8.0\ref\TareaDeHoyHallowen.dll
